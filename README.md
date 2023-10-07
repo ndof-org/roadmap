@@ -3,8 +3,7 @@
 ```mermaid
 gantt
     dateFormat YYYY-MM-DD
-    title NDOF Roadmap for Next 2 Years
-    
+    title NDOF Roadmap for Next 2 Years    
     
     section 2023 Q4-Q1
     Launch NDOF 3.0 :a1, 2023-10-01, 200d
@@ -15,7 +14,7 @@ gantt
     Customizing NDOF for Businesses :a4, after a3, 120d
     
     section 2024 Q3-Q4
-    Marekt Expansion :a5, 2024-07-01, 180d
+    Europe Expansion :a5, 2024-07-01, 180d
     Collect User Feedback :a6, 2024-10-01, 90d
 ```
 
